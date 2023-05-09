@@ -16,12 +16,14 @@ My GitHub page is http://github.com/a-reyesc.
     text using std::cout. 
 
 * Lab 7
+
     Lab 7, part 2 was one of my favorite labs because it gave me an insight
     to what a game code looks like.  I was able to write and solidify my 
     understanding of for loops with various nested if statements and work 
     with bool variables.  
 
 * Lab 9
+
     Lab 9, part 2 was another one of my favorite labs because it was another
     mini game. In this lab I gained experience in opening and reading a file
     for a secret number.  Because it was a game, I enjoyed running the programs
