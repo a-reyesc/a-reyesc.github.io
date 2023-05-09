@@ -8,16 +8,21 @@ My GitHub page is http://github.com/a-reyesc.
 
 ### CPSC 120
 
-* Lab 7
-
-    Lab 7, part 2 was a favorite because I was always curious about how the
-    game Blackjack works. I was able to write functions for the first time
-    that calculate the correct value of a Blackjack hand no matter how many
-    Aces were dealt.
-
 * Lab 2
 
     Lab 02, part 2 was one of my favorite labs because it was the first time
     I wrote a small and simple game.  In this lab I learned to properly work
     with variables, as well as user input via the std::cin, and printing out
     text using std::cout. 
+
+* Lab 7
+    Lab 7, part 2 was one of my favorite labs because it gave me an insight
+    to what a game code looks like.  I was able to write and solidify my 
+    understanding of for loops with various nested if statements and work 
+    with bool variables.  
+
+* Lab 9
+    Lab 9, part 2 was another one of my favorite labs because it was another
+    mini game. In this lab I gained experience in opening and reading a file
+    for a secret number.  Because it was a game, I enjoyed running the programs
+    and checking their output (testing the programs). 
