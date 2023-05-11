@@ -13,15 +13,16 @@ My GitHub page is http://github.com/a-reyesc.
     Lab 02, part 2 was one of my favorite labs because it was the first time
     I wrote a small and simple game.  In this lab I learned to properly work
     with variables, as well as user input via the std::cin, and printing out
-    text using std::cout. 
+    text using std::cout. It had been a long time since I filled out a madlibs
+    and I had fun doing so in this lab.
 
 * Lab 7
 
     Lab 7, part 2 was one of my favorite labs because it gave me an insight
     to what a game code looks like.  I was able to write and solidify my 
     understanding of for loops with various nested if statements and work 
-    with bool variables.  
-
+    with bool variables.  At first, I really disliked this lab because I found it difficult, but I later realized that this lab helped me out a lot in the later labs.
+    
 * Lab 9
 
     Lab 9, part 2 was another one of my favorite labs because it was another
